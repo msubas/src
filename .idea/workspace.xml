@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b3f58c3-2005-4096-ab5e-f68fe53096ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="279" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/day01_FirstProgramming" />
+  </component>
+  <component name="ProjectId" id="1Yv1skVb1JCBUbc2aIUJtD5PzVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.V_Replit">
+    <configuration name="III_MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOVERLOADING.III_MethodOverloading" />
+      <module name="Spring2020B18_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOVERLOADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overloading_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOVERLOADING.Overloading_Practice" />
+      <module name="Spring2020B18_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOVERLOADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOVERLOADING.Uniques" />
+      <module name="Spring2020B18_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOVERLOADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V_Replit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOVERLOADING.V_Replit" />
+      <module name="Spring2020B18_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOVERLOADING.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XX_Replit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25_Method.XX_Replit" />
+      <module name="Spring2020B18_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.V_Replit" />
+        <item itemvalue="Application.XX_Replit" />
+        <item itemvalue="Application.Overloading_Practice" />
+        <item itemvalue="Application.III_MethodOverloading" />
+        <item itemvalue="Application.Uniques" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3f58c3-2005-4096-ab5e-f68fe53096ed" name="Default Changelist" comment="" />
+      <created>1583808463251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583808463251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1241" y="297" key="#III_Practice3" timestamp="1586136677158">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="1241" y="297" key="#III_Practice3/0.0.2048.1240@0.0.2048.1240" timestamp="1586136677158" />
+    <state x="751" y="289" key="#Unnamed" timestamp="1586924639351">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="751" y="289" key="#Unnamed/0.0.2048.1240@0.0.2048.1240" timestamp="1586924639351" />
+    <state x="827" y="512" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587046753131">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="827" y="512" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1240@0.0.2048.1240" timestamp="1587046753131" />
+    <state x="755" y="370" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586658205018">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="755" y="370" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1586658205018" />
+    <state x="5378" y="784" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587442991735">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state x="5378" y="784" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587442991735" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1587503160568">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.0.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587503160568" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1587503160567">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.0.center/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587503160567" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1587503160567">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.0.left/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587503160567" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1587503160568">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.0.right/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587503160568" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1587423144670">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.1.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587394132586" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1587423144670">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.1.center/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587394132586" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1587423144670">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.1.left/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587394132586" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1587423144670">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state width="1026" height="417" key="GridCell.Tab.1.right/0.0.2048.1240@0.0.2048.1240" timestamp="1587157395165" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423144670" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587394132586" />
+    <state x="4851" y="614" key="SettingsEditor" timestamp="1587310559666">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state x="208" y="275" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1585772160841" />
+    <state x="4851" y="614" key="SettingsEditor/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587310559666" />
+    <state x="89" y="102" width="883" height="1032" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587065187101">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="89" y="102" width="883" height="1032" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1587065187101" />
+    <state x="89" y="102" width="883" height="1032" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587065187101">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="89" y="102" width="883" height="1032" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1587065187101" />
+    <state x="2856" y="853" width="607" height="449" key="com.intellij.ide.util.TipDialog" timestamp="1587423123621">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state x="128" y="560" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1587181846312" />
+    <state x="2856" y="853" key="com.intellij.ide.util.TipDialog/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587423123621" />
+    <state x="4776" y="853" width="607" height="449" key="com.intellij.ide.util.TipDialog/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587394149584" />
+    <state x="990" y="200" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585078732675">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="990" y="200" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1240@0.0.2048.1240" timestamp="1585078732675" />
+    <state x="93" y="93" width="1862" height="1054" key="dock-window-1" timestamp="1586711737330">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="93" y="93" width="1862" height="1054" key="dock-window-1/0.0.2048.1240@0.0.2048.1240" timestamp="1586711737330" />
+    <state x="5340" y="596" width="586" height="614" key="find.popup" timestamp="1587261712675">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state x="730" y="254" width="590" height="732" key="find.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1587129599437" />
+    <state x="5340" y="596" width="586" height="614" key="find.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587261712675" />
+    <state x="5294" y="627" key="run.anything.popup" timestamp="1587433076972">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state x="681" y="291" key="run.anything.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1586708373555" />
+    <state x="5294" y="627" key="run.anything.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587433076972" />
+    <state x="5725" y="619" width="672" height="569" key="search.everywhere.popup" timestamp="1587476295886">
+      <screen x="4656" y="383" width="1920" height="1040" />
+    </state>
+    <state x="1140" y="281" width="672" height="678" key="search.everywhere.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1587153193234" />
+    <state x="5725" y="619" width="672" height="569" key="search.everywhere.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587476295886" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day09_TernayI/ternaryVII.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day07_IfStatementcont/practIII.java</url>
+          <line>4</line>
+          <properties class="day07_IfStatementcont.practIII" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day13_ScannerString/practiceSsstring.java</url>
+          <line>3</line>
+          <properties class="Day13_ScannerString.practiceSsstring" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B18_java$XII_Practice.ic" NAME="XII_Practice Coverage Results" MODIFIED="1587423132817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Day25_Method.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_java$IV_Practice4.ic" NAME="IV_Practice4 Coverage Results" MODIFIED="1586143221508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SundayStudy.*</FILTER>
+    </SUITE>
+  </component>
+</project>
