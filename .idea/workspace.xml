@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b3f58c3-2005-4096-ab5e-f68fe53096ed" name="Default Changelist" comment="" />
+    <list default="true" id="8b3f58c3-2005-4096-ab5e-f68fe53096ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +154,10 @@
       <screen x="4656" y="383" width="1920" height="1040" />
     </state>
     <state x="5378" y="784" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587442991735" />
+    <state x="3335" y="498" key="CommitChangelistDialog2" timestamp="1587517377654">
+      <screen x="2736" y="383" width="1920" height="1040" />
+    </state>
+    <state x="3335" y="498" key="CommitChangelistDialog2/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587517377654" />
     <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1587503160568">
       <screen x="4656" y="383" width="1920" height="1040" />
     </state>
@@ -236,10 +243,11 @@
     </state>
     <state x="681" y="291" key="run.anything.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1586708373555" />
     <state x="5294" y="627" key="run.anything.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587433076972" />
-    <state x="5725" y="619" width="672" height="569" key="search.everywhere.popup" timestamp="1587476295886">
-      <screen x="4656" y="383" width="1920" height="1040" />
+    <state x="3805" y="619" width="672" height="569" key="search.everywhere.popup" timestamp="1587517159200">
+      <screen x="2736" y="383" width="1920" height="1040" />
     </state>
     <state x="1140" y="281" width="672" height="678" key="search.everywhere.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1587153193234" />
+    <state x="3805" y="619" width="672" height="569" key="search.everywhere.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@2736.383.1920.1040" timestamp="1587517159200" />
     <state x="5725" y="619" width="672" height="569" key="search.everywhere.popup/0.0.2189.1419/2736.383.1920.1040/4656.383.1920.1040@4656.383.1920.1040" timestamp="1587476295886" />
   </component>
   <component name="XDebuggerManager">
