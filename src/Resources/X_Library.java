@@ -83,4 +83,14 @@ public class X_Library {
             result += ch + num;
 
         }
-        return result;}}
+        return result;}
+
+    public static int minNumberArray(int[]arr) {
+        int min=arr[0];
+        for(int each: arr){
+            if(each<min){
+                min=each;}}
+        System.out.println(min);
+        return min;}}
+
+
